@@ -1,0 +1,18 @@
+button{
+    border-radius: 10px;
+    color: red;
+    background-color: blanchedalmond;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: green;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
